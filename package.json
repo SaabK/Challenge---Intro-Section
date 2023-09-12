@@ -1,0 +1,10 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Ali Bin Naseer",
+  "license": "ISC"
+}
